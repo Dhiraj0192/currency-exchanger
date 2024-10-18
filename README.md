@@ -74,15 +74,6 @@ The **Xeto Xchange** is a web-based currency exchanger application, where conven
 -----------------------------------------------------------------------------------------------------------------------------
 <h3 align="center">Hi there😄</h3>
 
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **yadavdhiru201@gmail.com** to get this Full Project Code, PPT, Report of this Project.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **yadavdhiru201@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
-
-### Need Code, Documents & Explanation video ? 
-
 ## How to Reach me :
 
 ### Mail : yadavdhiru201@gmail.com 
