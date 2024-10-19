@@ -62,12 +62,6 @@ The **Xeto Xchange** is a web-based currency exchanger application, where conven
 ### Admin-Signup-Page
 <img src="currency-exchanger-pics/admin-signup-page.png" alt="project-screenshot" width="90%" height="100%"/>
 
-### About-Page
-<img src="currency-exchanger-pics/about-page.png" alt="project-screenshot" width="90%" height="100%"/>
-
-### Transation-Report-Page
-<img src="currency-exchanger-pics/transaction-page.png" alt="project-screenshot" width="90%" height="100%"/>
-
 ### User-Info-Page
 <img src="currency-exchanger-pics/userinfo-page.png" alt="project-screenshot" width="90%" height="100%"/>
 
